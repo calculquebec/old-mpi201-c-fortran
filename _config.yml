@@ -9,7 +9,7 @@ execute:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/calculquebec/mpi201-prog-parallele
+  url: https://github.com/calculquebec/old-mpi201-c-fortran
   branch: main
 
 # https://jupyterbook.org/structure/configure.html#exclude-pages-from-your-build
