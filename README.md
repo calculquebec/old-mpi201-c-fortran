@@ -9,4 +9,4 @@ Open MPI et Intel MPI, ainsi qu'avec les compilateur GNU et Intel.
 
 Le site Web se trouve à l'adresse suivante :
 
-* https://calculquebec.github.io/mpi201-prog-parallele
+* https://calculquebec.github.io/old-mpi201-c-fortran
